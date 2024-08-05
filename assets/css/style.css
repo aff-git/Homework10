@@ -25,6 +25,10 @@ img {
 
 .another-component {
     /* margin: 0 auto;  */
+    
+    margin: 20px; /*обновлено 5.08.2024 */
+    padding: 20px; /*обновлено 5.08.2024 */
+
     gap: 5%;
     display: flex;
     width: 1300px;
